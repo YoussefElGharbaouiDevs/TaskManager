@@ -1,0 +1,65 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider project settings
+.idea/
+*.sln.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# ASP.NET Core
+wwwroot/
+appsettings.*.json
+
+# Logs
+*.log
+
+# EF Core Migrations (if you want to exclude snapshots)
+Migrations/*Snapshot.cs
+
+# Docker files (optional)
+*.container
+docker-compose.override.yml
+
+# Secrets
+secrets.json
+
+# Local DB files
+*.mdf
+*.ldf
+
+# Rider caches (optional but recommended)
+.idea/
+.idea_modules/
+.idea/.idea_modules/
+.idea/.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/shelf/
+
+# Rider logs
+.idea/logs/
+
+# DotCover
+*.dotCover
+
+# Backup & temp files
+*.bak
+*.tmp
+
+# npm stuff (if full stack)
+node_modules/
+
+# Publish output
+publish/
