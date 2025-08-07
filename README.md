@@ -45,7 +45,7 @@ TaskManager/
 
 #### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/TaskManager.git
+git clone https://github.com/YoussefElGharbaouiDevs/TaskManager.git
 cd TaskManager
 ```
 
@@ -128,3 +128,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 Made with ❤️ by [Youssef EL Gharbaoui](https://github.com/YoussefElGharbaouiDevs)
+
